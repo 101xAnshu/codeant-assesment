@@ -1,6 +1,6 @@
 # CodeAnt AI
 
-**CodeAnt AI** is a modern, responsive web application built to showcase coding assignments with a focus on user experience and design. The project consists of two primary pages:
+**CodeAnt AI** is a modern, responsive web application built to showcase a coding assignment with a focus on user experience and design. The project consists of two primary pages:
 
 1. **Login Screen**: A clean and user-friendly authentication interface.
 2. **Repository Screen**: Displays repositories dynamically with smooth browsing capabilities.
