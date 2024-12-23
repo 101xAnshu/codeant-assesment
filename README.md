@@ -1,45 +1,49 @@
-## 📝 About
+# CodeAnt AI
 
-**CodeAnt AI** is a simple yet functional coding assignment project showcasing two core pages:
+**CodeAnt AI** is a modern, responsive web application built to showcase coding assignments with a focus on user experience and design. The project consists of two primary pages:
 
-1. **Sign-In Page**: A clean and user-friendly interface for authentication.
-2. **Dashboard**: Displays repositories dynamically, offering a smooth browsing experience.
+1. **Login Screen**: A clean and user-friendly authentication interface.
+2. **Repository Screen**: Displays repositories dynamically with smooth browsing capabilities.
 
-✨ The project is fully **mobile-responsive**, ensuring seamless functionality across devices.
+### Key Features
 
----
-
-## 💻 Features
-
-- **Sign-In Page**: A sleek, intuitive design for user authentication.
-- **Dashboard**: Displays repositories with a focus on usability and aesthetics.
-- **Mobile Responsive**: Perfectly adapts to all screen sizes.
+- **User Authentication**: A sleek, intuitive sign-in page for user access.
+- **Repository Dashboard**: A well-structured and dynamic dashboard for displaying repositories.
+- **Mobile-First Design**: Fully responsive design that adapts seamlessly to all screen sizes.
 
 ---
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies
+
+This project leverages the following technologies:
 
 - **Frontend**: React, HTML, CSS
-- **Responsive Design**: Tailwind CSS / Custom Media Queries
+- **Styling**: Tailwind CSS (with custom media queries for responsive design)
+- **Build Tools**: Vite, ESBuild for fast builds
+- **Version Control**: Git (GitHub)
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
-### Clone the Repository
+Follow these steps to run the project locally on your machine:
+
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/CodeAnt-AI.git
+git clone https://github.com/101xAnshu/codeant-assesment
 cd CodeAnt-AI
 ```
 
-### Install Dependencies
+### 2. Install Dependencies
+
+Ensure you have pnpm installed, then run the following command to install the required dependencies:
 
 ```bash
 pnpm install
 ```
 
-### Run the Development Server
+### 3. Run the Development Server
 
 ```bash
 pnpm run dev
